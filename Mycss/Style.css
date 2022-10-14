@@ -1,0 +1,85 @@
+.primary-color{
+    -fx-background-color: #13123A;
+}
+.btn-1{
+    -fx-text-fill: #18ffff;
+    -fx-border-radius: 90px;
+    -fx-background-color: none;
+    -fx-border-color: #18ffff;
+    -fx-border-width: 3px 3px 3px 3px;
+}
+.btn-1:hover{
+    -fx-text-fill: #212121;
+    -fx-border-color: #84ffff;
+    -fx-background-color: #84ffff;
+    -fx-background-radius: 90px;
+    -fx-translate-x: 3px;
+    -fx-translate-y: -5px;
+    -fx-border-radius: 90px;
+}
+.btn-2{
+    -fx-background-color: none;
+    -fx-text-fill: #18ffff;
+    -fx-border-color: none;
+    -fx-background-radius: 5px;
+}
+.btn-2:hover{
+    -fx-background-color: none;
+    -fx-text-fill: #212121;
+    -fx-background-radius: 5px;
+}
+.tf-1{
+    -fx-text-fill: #e0f7fa;
+    -fx-border-width: 0px 0px 3px 0px;
+}
+.anchor-pane-1{
+    -fx-background-color: #fce4ec;
+}
+.btn-3{
+    -fx-text-fill: #fff8e1;
+    -fx-background-color:  #76ff03;
+    -fx-border-radius: 90px;
+}
+.btn-3:hover{
+    -fx-text-fill:  #263238;
+    -fx-background-color:  #76ff03;
+    -fx-border-radius: 90px;
+    -fx-translate-x: 2px;
+}
+.btn-4{
+    -fx-text-fill: #fafafa;
+    -fx-background-color:  none;
+    -fx-border-color: none;
+}
+.btn-4:hover{
+    -fx-text-fill: #18ffff;
+    -fx-background-color:  none;
+    -fx-border-color: none;
+}
+.btn-5{
+    -fx-background-color: #e61e4d;
+    -fx-border-radius: 5px;
+}
+.an-pane1{
+    -fx-background-radius: 60px;
+    -fx-border-radius: 60px;
+
+}
+.an-pane2{
+    -fx-border-color: #212121;
+    -fx-border-radius: 8px;
+}
+.image-1{
+    -fx-background-radius: 60px;
+    -fx-border-radius: 60px;
+    -fx-border-color: #1976d2;
+    -fx-border-width: 2px 2px 2px 2px;
+}
+
+.combobox-1{
+    -fx-background-color:  #76ff03;
+}
+.date-1{
+    -fx-background-color:  #76ff03;
+    -fx-text-fill:  #76ff03;
+}
