@@ -1,1 +1,1 @@
-Nothing to show :<
+Mini project for praticing
